@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @akhileshchary
+- 👋 Hi, I’m @Akhileshchary
 - 👀 I’m interested in ...Network Engineer role
-- 🌱 I’m currently learning ...Linux,CCNA Routung and switching.  
+- 🌱 I’m currently learning ...Linux,CCNA Routing and switching.  
 - 💞️ I’m looking to collaborate on ...hyderabad
 - 📫 How to reach me ...akhileshcharymogili@gmail.com
 
