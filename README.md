@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akhileshchary
-- 👀 I’m interested in ...devops cloud engineer role
-- 🌱 I’m currently learning ...linux commands in aws ec2 console,devops tools like Github,AWS.  
+- 👀 I’m interested in ...Network Engineer role
+- 🌱 I’m currently learning ...Linux,CCNA Routung and switching.  
 - 💞️ I’m looking to collaborate on ...hyderabad
 - 📫 How to reach me ...akhileshcharymogili@gmail.com
 
