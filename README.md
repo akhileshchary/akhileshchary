@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akhileshchary
-- 👀 I’m interested in ...Network Engineer role
-- 🌱 I’m currently learning ...Linux,CCNA Routing and switching.  
-- 💞️ I’m looking to collaborate on ...hyderabad
+- 👀 I’m interested in ...Devops Engineer role
+- 🌱 I’m currently learning ...Linux,Devops,Git,Ansible,Kuberenete,CICD,Jenkins.  
+- 💞️ I’m working as a IT Administrator in BOXFinity Pvt Ltd...hyderabad
 - 📫 How to reach me ...akhileshcharymogili@gmail.com
 
 <!---
