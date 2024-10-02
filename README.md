@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @Akhileshchary
-- 👀 I’m interested in ...Java Developer role.
-- 🌱 I’m currently learning ...Java,spring boot, Linux,Devops,Git,Ansible,Kuberenete,CICD,Jenkins.  
-- 💞️ I’m worked as a IT Administrator in BOXFinity Pvt Ltd...hyderabad
-- 📫 How to reach me ...akhileshcharymogili@gmail.com
+# Hi, I'm Akhilesh Chary 👋
+
+👀 **I'm interested in**: Java Developer roles and backend development.
+
+🌱 **Currently learning**: 
+- Java & Spring Boot  
+- Linux  
+- DevOps (Git, Ansible, Kubernetes, CI/CD, Jenkins,Terraform,)  
+
+💼 **Professional experience**:  
+Worked as an IT Administrator at **BOXFinity Pvt Ltd**, Hyderabad, where I gained hands-on experience in systems administration and IT infrastructure.
+
+📫 **Reach me at**:  
+[akhileshcharymogili@gmail.com](mailto:akhileshcharymogili@gmail.com)
 
 <!---
 akhileshchary/akhileshchary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
