@@ -1,10 +1,11 @@
 # Hi, I'm Akhilesh Chary 👋
 
-👀 **I'm interested in**: Java Developer roles and backend development.
+👀 **I'm interested in* Devops Engineer.
 
 🌱 **Currently learning**: 
-- Java & Spring Boot  
-- Linux  
+- Linux.
+- AWS cloud practioner, preparing for the certification.
+- Networking Fundamemtals.
 - DevOps (Git, Ansible, Kubernetes, CI/CD, Jenkins,Terraform,)  
 
 💼 **Professional experience**:  
