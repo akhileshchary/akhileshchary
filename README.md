@@ -9,7 +9,7 @@
 - DevOps (Git, Ansible, Kubernetes, CI/CD, Jenkins,Terraform,)  
 
 💼 **Professional experience**:  
-Worked as an IT Administrator at **BOXFinity Pvt Ltd**, Hyderabad, where I gained hands-on experience in systems administration and IT infrastructure.
+Worked as an IT Administrator at **Boxfinity Pvt Ltd**, Hyderabad, where I gained hands-on experience in systems administration and IT infrastructure.
 
 📫 **Reach me at**:  
 [akhileshcharymogili@gmail.com](mailto:akhileshcharymogili@gmail.com)
